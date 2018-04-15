@@ -205,12 +205,3 @@ grid.arrange(
   ncol=2
 )
 ```
-<hr>
-<strong>History :</strong>
-
-* _version 1 : initial commit_ 
-* _version 2 : added choropleth maps, using a not-very elegant coding style_
-* _version 3 : updated for new csv files_
-* _version 4 : added grid of choropleth maps for the top 4 species_
-* _version 5 : reshape sections_
-<hr>
